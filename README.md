@@ -63,7 +63,7 @@ NEologd辞書、Nikkaji辞書とも併用可能です。
 ### chemfrag.dic
 - 化学フラグメントのMeCab用UTF-8辞書です。
 ### chemfrag.csv
-- 化学フラグメント辞書のMeCabでのコンパイル前のcsvファイルです。
+- 化学フラグメント辞書のMeCabでのコンパイル前のcsvファイルです。文字コードはUTF-8。
 
 ## 使用方法
 - chemfrag.dicファイルをMecab\dic\chemfrag\に置きます。
@@ -82,5 +82,5 @@ userdic = C:\Program Files (x86)\MeCab\dic\chemfrag\chemfrag.dic
 - 文脈IDの検討
 - 生起コストの検討
 
-この辞書はアジア特許情報研究会の活動の一環で作成しています。
+Chemfrag辞書はアジア特許情報研究会の活動の一環です。  
 https://sapi.kaisei1992.com/
