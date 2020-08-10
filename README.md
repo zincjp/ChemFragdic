@@ -81,3 +81,6 @@ userdic = C:\Program Files (x86)\MeCab\dic\chemfrag\chemfrag.dic
 - 化合物名の増強←まずはこれをしっかり増強予定。
 - 文脈IDの検討
 - 生起コストの検討
+
+この辞書はアジア特許情報研究会の活動の一環で作成しています。
+https://sapi.kaisei1992.com/
