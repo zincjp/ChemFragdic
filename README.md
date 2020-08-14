@@ -75,7 +75,7 @@ userdic = C:\Program Files (x86)\MeCab\dic\chemfrag\chemfrag.dic
 ### 生起コスト
 - MeCabの単語生起コストはとりあえず100と低めにしています。
 ### 文脈ID
-- MeCabの文脈IDは右文脈ID,左文脈IDともに1285としています。
+- 文脈IDは右文脈ID,左文脈IDともに1285(名詞,一般)を割り当てています。
 
 ## 今後の予定
 - 化合物名の増強←まずはこれをしっかり増強予定。
