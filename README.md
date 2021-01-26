@@ -102,4 +102,4 @@ userdic = C:\Program Files (x86)\MeCab\dic\chemfrag\chemfrag.dic
 - 生起コストの検討
 
 Chemfrag辞書はアジア特許情報研究会の活動の一環です。  
-https://sapi.kaisei1992.com/
+https://sasiapi.org/
